@@ -36,7 +36,7 @@ Web Design/Development
 
 ### Iowa OER Cost Savings Dashboard ([Link](https://university-of-iowa-oer-dashboard.onrender.com/))
 
-![Project 1 Screenshot](Screenshots/oer-dash.png)
+![Project 1 Screenshot](oer-dash.png)
 
 **Iowa Open Educational Resource Cost Savings Dashboard** is a **data dashboard to show OER cost savings from the 2019-2020 academic year to the 2023-2024 academic year** built with **Python, Pandas, Numpy, Plotly, Excel, and Dash Studio**. This project demonstrates my ability to **manage, ingest, clean, transform, and visualize data given to me by client**. You can check out the repository [here]([project_1_repository_link](https://github.com/GriffEngel/practicum-dash-app)).
 
