@@ -4,7 +4,7 @@
 
 I'm an aspiring **Academic Libarian or Data Analyst** with experience in **assisting others in analyzing and visualizing their data and web design**.
 
-- Currently learning: **ArcGIS, Power BI**
+- Currently learning: **ArcGIS**
 - Working on: **University of Iowa OER Dashboard**
 - Languages: **Python, some Javascript, English**
 - How to reach me: **<gnengel07@gmail.com>**
