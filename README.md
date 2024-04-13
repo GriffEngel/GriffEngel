@@ -6,7 +6,7 @@ I'm an aspiring **Academic Libarian or Data Analyst** with experience in **assis
 
 - Currently learning: **ArcGIS**
 - Working on: **University of Iowa OER Dashboard**
-- Languages: **Python, some Javascript, English**
+- Languages: **Python (Data analysis & visualization), some Javascript, English**
 - How to reach me: **<gnengel07@gmail.com>**
 
 ## My Skills
