@@ -4,7 +4,7 @@
 
 I'm an aspiring **Academic Libarian or Data Analyst** with experience in **assisting others in analyzing and visualizing their data and web design**.
 
-- Currently learning: **Observable (Notebooks & Framework), ArcGIS**
+- Currently learning: **Observable (Notebooks & Framework), D3, & ArcGIS**
 - Working on: **University of Iowa OER Dashboard**
 - Languages: **Python (Data analysis & visualization), some Javascript, English**
 - How to reach me: **<gnengel07@gmail.com>**
