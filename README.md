@@ -35,13 +35,13 @@ Web Design/Development
 
 ## Featured Projects
 
-### Iowa OER Cost Savings Dashboard [Link](http://s-lib007.lib.uiowa.edu:8050/)
+### [Iowa OER Cost Savings Dashboard](http://s-lib007.lib.uiowa.edu:8050/)
 
 ![Project 1 Screenshot](oer-dash.png)
 
 **Iowa Open Educational Resource Cost Savings Dashboard** is a **data dashboard to show OER cost savings from the 2019-2020 academic year to the 2023-2024 academic year** built with **Python, Pandas, Numpy, Plotly, Excel, and Dash Studio**. This project demonstrates my ability to **manage, ingest, clean, transform, and visualize data given to me by client**. You can check out the repository [here](https://github.com/GriffEngel/practicum-dash-app)
 
-### Insurance Dashboard built with Observable Framework [Link](https://griffin-engel.observablehq.cloud/insurance-dashboard/)
+### [Insurance Dashboard built with Observable Framework](https://griffin-engel.observablehq.cloud/insurance-dashboard/)
 
 ![Project 2 Screenshot](https://github.com/GriffEngel/GriffEngel/assets/125166144/319e6e11-c1a2-452e-91a7-6766c4d528db)
 
