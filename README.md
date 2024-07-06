@@ -35,7 +35,7 @@ Web Design/Development
 
 ## Featured Projects
 
-### Iowa OER Cost Savings Dashboard ([Link](http://s-lib007.lib.uiowa.edu:8050/))
+### Iowa OER Cost Savings Dashboard [Link](http://s-lib007.lib.uiowa.edu:8050/)
 
 ![Project 1 Screenshot](oer-dash.png)
 
