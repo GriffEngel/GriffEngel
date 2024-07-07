@@ -48,6 +48,7 @@ Web Design/Development
 ## Get in Touch
 
 - [**My Portfolio Site**](https://griffengel.github.io/)
+- [**Tableau Public Profile**](https://public.tableau.com/app/profile/griffin.engel/vizzes)
 - [**LinkedIn**](https://www.linkedin.com/in/griffin-engel-066b12224/)
 - [**X/Twitter**](https://twitter.com/DataVizGriff) (Data Visualization Account)
 
