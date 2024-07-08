@@ -39,7 +39,7 @@ Web Design/Development
 
 ![Project 1 Screenshot](oer-dash.png)
 
-**Iowa Open Educational Resource Cost Savings Dashboard** is a **data dashboard to show OER cost savings from the 2019-2020 academic year to the 2023-2024 academic year** built with **Python, Pandas, Numpy, Plotly, Excel, and Dash Studio**. This project demonstrates my ability to **manage, ingest, clean, transform, and visualize data given to me by client**. You can check out the repository [here](https://github.com/GriffEngel/practicum-dash-app)
+**Iowa Open Educational Resource Cost Savings Dashboard** is a **data dashboard to show OER cost savings from the 2019-2020 academic year to the 2023-2024 academic year** built with **Python, Pandas, Numpy, Plotly, Excel, and Dash Studio**. This project demonstrates my ability to **manage, ingest, clean, transform, and visualize data given to me by my practicum advisor**. You can check out the repository [here](https://github.com/GriffEngel/practicum-dash-app)
 
 ### [Insurance Dashboard built with Observable Framework](https://griffin-engel.observablehq.cloud/insurance-dashboard/)
 
