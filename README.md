@@ -16,13 +16,15 @@ Data Analysis & Visualization
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Observable Framework](https://img.shields.io/badge/Observable%20Framework-steelblue?style=for-the-badge)
-![Dash Studio](https://img.shields.io/badge/Dash%20Studio-red?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-lightblue?style=for-the-badge)
+![Dash Studio](https://img.shields.io/badge/Dash%20Studio-red?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+![Observable Framework](https://img.shields.io/badge/Observable%20Framework-steelblue?style=for-the-badge)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
 
 Web Design/Development
 
