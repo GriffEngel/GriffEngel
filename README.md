@@ -2,11 +2,11 @@
 
 ## About Me
 
-I'm an aspiring **Academic Libarian or Data Analyst** with experience in **assisting others in analyzing and visualizing their data, and web design**.
+I'm an **Adjunct Librarian at Des Moines Area Community College**.
 
-- Currently learning: **Observable (Notebooks & Framework), D3, & ArcGIS**
+- Currently learning: **Solidifying Python knowledge outside of data processes** 
 - Working on: 
-- Languages: **Python (Data analysis & visualization), some Javascript, English**
+- Languages: **Python (Data analysis & visualization)**
 - How to reach me: **<gnengel07@gmail.com>**
 
 ## My Skills
