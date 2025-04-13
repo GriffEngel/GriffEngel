@@ -5,7 +5,7 @@
 I'm an **Adjunct Librarian at Des Moines Area Community College**.
 
 - Currently learning: **Solidifying Python knowledge outside of data processes** 
-- Working on: **Building a blog with Flask**
+- Working on: **Learning PyGame**
 - Languages: **Python (Data analysis & visualization)**
 - How to reach me: **<gnengel07@gmail.com>**
 
