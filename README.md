@@ -4,8 +4,8 @@
 
 I'm an **Adjunct Librarian at Des Moines Area Community College**.
 
-- Currently learning: **Solidifying Python knowledge outside of data processes** 
-- Working on: **CLI Todo APP**
+- Currently learning: **Rust** 
+- Working on:
 - Languages: **Python (Data analysis & visualization)**
 - How to reach me: **<gnengel07@gmail.com>**
 
