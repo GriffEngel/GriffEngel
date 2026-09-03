@@ -4,10 +4,10 @@
 
 I'm an **Adjunct Librarian at Des Moines Area Community College**.
 
-- Currently learning: **Rust** 
+- Currently learning: 
 - Working on:
-- Languages: **Python (Data analysis & visualization)**
-- How to reach me: **<gnengel07@gmail.com>**
+- Languages: 
+- How to reach me: **<gnengel@protonmail.com>**
 
 ## My Skills
 
@@ -15,7 +15,7 @@ Data Analysis & Visualization
   
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![Polars](https://img.shields.io/badge/Polars-blue)
+![Polars](https://img.shields.io/badge/Polars-2CD72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
@@ -40,11 +40,7 @@ Web Design/Development
 ![Project 2 Screenshot](https://github.com/GriffEngel/GriffEngel/assets/125166144/319e6e11-c1a2-452e-91a7-6766c4d528db)
 
 ## Get in Touch
-
-- [**Portfolio Site**](https://griffengel.github.io/)
-- [**Tableau Public Profile**](https://public.tableau.com/app/profile/griffin.engel/vizzes)
 - [**LinkedIn**](https://www.linkedin.com/in/griffin-engel-066b12224/)
-- [**X/Twitter**](https://twitter.com/DataVizGriff) (Data Visualization Account)
 
 
 <!---
