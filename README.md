@@ -4,9 +4,9 @@
 
 I'm an **Adjunct Librarian at Des Moines Area Community College**.
 
-- Currently learning: 
-- Working on:
-- Languages: 
+- Currently learning: Python for AI Agents
+- Working on: 
+- Languages: **Python**
 - How to reach me: **<gnengel@protonmail.com>**
 
 ## My Skills
