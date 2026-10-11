@@ -41,6 +41,8 @@ Web Design/Development
 
 ### [SQL Data Exploration](https://github.com/GriffEngel/SQL-Data-Exploration)
 
+![Project 3 Screenshot](https://github.com/GriffEngel/GriffEngel/sql.png)
+
 ## Get in Touch
 - [**LinkedIn**](https://www.linkedin.com/in/griffin-engel-066b12224/)
 
